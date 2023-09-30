@@ -1,5 +1,3 @@
-# Machine-Learning-Course
-
 # Machine Learning Course
 
 This repository contains my solutions and projects for a machine learning course. The course covers various topics and assignments, each of which is organized into separate folders.
@@ -66,8 +64,4 @@ The fourth assignment delves into Logistic Regression, Bayes, and EM. It encompa
 The fifth and final homework assignment focuses on Clustering with k-means.
 
 ---
-
-Please feel free to explore each folder to view the individual assignments and projects. If you have any questions or would like to discuss any of the topics or solutions, please don't hesitate to contact me.
-
-Happy exploring!
 
